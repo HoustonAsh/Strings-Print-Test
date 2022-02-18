@@ -10,3 +10,5 @@ For my pc (Ryzen 2600, 3.4GHz) i got that results
 |String Builder with System.out.println       | 588        |
 |BufferedWriter with System.out.println       | 584        |
 |BufferedOutputStream with System.out.println | 487        |
+
+Used Java version: 16.0.1
