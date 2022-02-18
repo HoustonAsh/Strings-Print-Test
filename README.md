@@ -1,5 +1,5 @@
 # Just a Strings Print Test
-The test: function that prints 10^5 words with various of methods.
+The test: function that prints 10^5 words with various of methods.  
 For my pc (Ryzen 2600, 3.4GHz) i got that results
 
 | Print method                                | time in ms |
