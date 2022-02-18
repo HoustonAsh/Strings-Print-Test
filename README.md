@@ -1,4 +1,4 @@
-# Just a Strings Print Test
+# Just a Strings Print Test for Java
 The test: function that prints 10^5 words with various of methods.  
 For my pc (Ryzen 2600, 3.4GHz) i got that results
 
